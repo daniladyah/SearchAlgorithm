@@ -79,3 +79,6 @@ namespace SearchAlgorithm
             } while ((ch == 'y') || (ch == 'y'));
 
             public void LinearSearch()
+            {
+                char ch;
+                //search for number of comparison
