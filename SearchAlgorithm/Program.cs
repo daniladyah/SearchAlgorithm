@@ -15,8 +15,18 @@ namespace SearchAlgorithm
         //Get the number of elements to store in the array
         int i;
 
-        
-            
+        public void input()
+        {
+            while (true)
+            {
+                Console.WriteLine("Enter the number of elements in the array: ");
+                string s = Console.ReadLine();
+                n = Int32.Parse(s);
+                if ((n > 0))
+
+
+
+
         }
-    }
+        }
 }
