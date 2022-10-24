@@ -107,3 +107,5 @@ namespace SearchAlgorithm
             } while ((ch == 'y') || (ch == 'Y'));
         }
         static void Main(string[] args)
+        {
+            Program myList = new Program
