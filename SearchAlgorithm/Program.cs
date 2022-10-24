@@ -41,5 +41,14 @@ namespace SearchAlgorithm
         }
         public void BinarySearch()
         {
-            // accept the number to be searched 
+            char ch;
+            do
+            {
+                 // accept the number to be searched 
+                 Console.Write("\nenter element want you to search :");
+                 int item = Convert.ToInt32(Console.ReadLine());
+
+                // apply binary search
+
+
 }
