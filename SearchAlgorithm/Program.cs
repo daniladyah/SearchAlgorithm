@@ -82,3 +82,9 @@ namespace SearchAlgorithm
             {
                 char ch;
                 //search for number of comparison
+                int ctr;
+                do
+                {
+                    //Accept the number to be searched
+
+                }
