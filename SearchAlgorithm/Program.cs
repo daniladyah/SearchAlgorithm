@@ -40,4 +40,6 @@ namespace SearchAlgorithm
             }
         }
         public void BinarySearch()
+        {
+            // accept the number to be searched 
 }
