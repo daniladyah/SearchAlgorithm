@@ -9,9 +9,9 @@ namespace SearchAlgorithm
     class Program
     {
         //Arrray to be searched
-        int[] arr = new iint [20]
+        int[] arr = new int[20];
         //Number of elements in the array
-        iint n;
+        int n;
         //Get the number of elements to store in the array
         int i;
 
