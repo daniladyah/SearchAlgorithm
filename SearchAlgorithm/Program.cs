@@ -49,6 +49,10 @@ namespace SearchAlgorithm
                  int item = Convert.ToInt32(Console.ReadLine());
 
                 // apply binary search
+                int lowerbound = 0
+                int upperbound = n - 1;
+
+                //obtain the index of the middle elments
 
 
 }
